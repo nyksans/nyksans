@@ -1,9 +1,19 @@
 ### 👨‍💻 About Me
 
 - 👋 Hi, I'm Nithin M.
-- 🎓 Student exploring various fields: web development, software development, cybersecurity, and AI engineering.
-- 💻 Basic knowledge in: HTML, CSS, JavaScript, C, Python, Java, and MongoDB.
-- 🚀 Currently working on projects in web development and Python for AI/ML.
+- 🎓 Student exploring web development, software development, cybersecurity, and AI engineering.
+- 🚀 Currently working on web development and Python projects for AI/ML.
+
+### 🛠️ Experience
+
+- 🖥️ Experienced with Linux (Debian, Ubuntu).
+- 🛠️ Internship at Yantrayug with Andrew Additive and Javiat Aerospace Pvt for drone fabrication (20 Nov 2023 - 18 Dec 2023).
+
+### 💻 Skills and Knowledge
+
+- **Languages:** HTML, CSS, JavaScript, C, Python, Java, Bash
+- **Databases:** MongoDB
+- **Other:** Bash scripting, Terminal usage
 
 ### 🌐 Socials
 
